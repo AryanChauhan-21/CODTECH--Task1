@@ -36,7 +36,7 @@ The TO-DOIT App is an online application designed to assist users in managing th
 **Fonts** (Poppins): Imported from Google Fonts for consistent typography.
 
 
-**>>Usage**
+**>>Features of this Project**
 
 **1.Adding a Task:**
 
