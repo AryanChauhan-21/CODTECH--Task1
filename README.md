@@ -10,7 +10,9 @@
 
 **Mentor: G.SRAVANI**
 
+
 **Overview of the Project**
+
 
 **Project**: To-Do List Web Application 
 
@@ -22,6 +24,7 @@
 
 The TO-DOIT App is an online application designed to assist users in managing their tasks. It offers a simple interface for creating, updating, and removing tasks. Additionally, the app allows users to filter tasks by status (All, Pending, Completed) and includes a theme switcher for a customized user experience.
 
+
 **Key Technologies used:**
 
 **HTML** (index.html): The main structure of the web page.
@@ -31,6 +34,7 @@ The TO-DOIT App is an online application designed to assist users in managing th
 **JavaScript** (main.js): Logic for handling user interactions, managing tasks, and implementing theme switching.
 
 **Fonts** (Poppins): Imported from Google Fonts for consistent typography.
+
 
 **Usage**
 
